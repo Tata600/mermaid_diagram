@@ -1,0 +1,76 @@
+// Mermaid Diagram - Styles for HTML Editor
+
+.o_syntax_highlighting {
+    .o_mermaid_container {
+        background: transparent;
+        border: none;
+        border-radius: 4px;
+        padding: 1rem;
+        margin-top: 0.25rem;
+        overflow: auto;
+        min-height: 60px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+        position: relative;
+
+        &:hover,
+        &:focus {
+            outline: 2px solid var(--o-brand-primary, #714B67);
+            outline-offset: 2px;
+        }
+
+        &:focus {
+            outline-style: dashed;
+        }
+
+        svg {
+            max-width: 100%;
+            height: auto;
+        }
+    }
+
+    .o_mermaid_placeholder {
+        color: var(--o-gray-500, #6c757d);
+        text-align: center;
+        padding: 1rem;
+        width: 100%;
+        font-size: 0.875rem;
+        font-style: italic;
+        opacity: 0.6;
+    }
+
+    .o_mermaid_error {
+        color: var(--o-warning-text-color, #856404);
+        background: var(--o-warning-bg-subtle, #fff3cd);
+        text-align: center;
+        padding: 1rem;
+        width: 100%;
+        font-size: 0.875rem;
+        border-radius: 4px;
+        border: 1px solid var(--o-warning-border-subtle, #ffc107);
+    }
+}
+
+// Dark mode
+html[data-color-scheme="dark"] {
+    .o_syntax_highlighting {
+        .o_mermaid_container {
+            &:hover,
+            &:focus {
+                outline-color: var(--o-brand-primary, #4a90a4);
+            }
+        }
+
+        .o_mermaid_placeholder {
+            color: var(--o-gray-400, #9ca3af);
+        }
+
+        .o_mermaid_error {
+            color: #fbbf24;
+            background: rgba(251, 191, 36, 0.1);
+            border-color: rgba(251, 191, 36, 0.3);
+        }
+    }
+}
